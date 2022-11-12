@@ -1,0 +1,23 @@
+-- Install configuration: ""
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/src
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/src/description
+-- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/src/description/aspen_description.urdf
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/launch
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/launch/display.launch.py
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/rviz
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/rviz/urdf_config.rviz
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/ament_index/resource_index/package_run_dependencies/aspen_description
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/ament_index/resource_index/parent_prefix_path/aspen_description
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/environment/ament_prefix_path.sh
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/environment/path.sh
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/environment/path.dsv
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/local_setup.bash
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/local_setup.sh
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/local_setup.zsh
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/local_setup.dsv
+-- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/package.dsv
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/ament_index/resource_index/packages/aspen_description
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/cmake/aspen_descriptionConfig.cmake
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/cmake/aspen_descriptionConfig-version.cmake
+-- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/package.xml

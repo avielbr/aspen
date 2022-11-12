@@ -1,0 +1,54 @@
+[0.054s] Invoking command in '/home/aspen/ros2_ws/src/aspen_description/build/aspen_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aspen/ros2_ws/src/aspen_description -DCMAKE_INSTALL_PREFIX=/home/aspen/ros2_ws/src/aspen_description/install/aspen_description
+[1.318s] -- The C compiler identification is GNU 11.3.0
+[1.593s] -- The CXX compiler identification is GNU 11.3.0
+[1.663s] -- Detecting C compiler ABI info
+[2.104s] -- Detecting C compiler ABI info - done
+[2.137s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.141s] -- Detecting C compile features
+[2.143s] -- Detecting C compile features - done
+[2.167s] -- Detecting CXX compiler ABI info
+[2.508s] -- Detecting CXX compiler ABI info - done
+[2.536s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.537s] -- Detecting CXX compile features
+[2.539s] -- Detecting CXX compile features - done
+[2.559s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.354s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[3.922s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.860s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.861s] -- Configured cppcheck include dirs: 
+[4.861s] -- Configured cppcheck exclude dirs and/or files: 
+[4.872s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.892s] -- Added test 'lint_cmake' to check CMake code style
+[4.904s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[4.968s] -- Added test 'uncrustify' to check C / C++ code style
+[4.969s] -- Configured uncrustify additional arguments: 
+[4.981s] -- Added test 'xmllint' to check XML markup files
+[4.993s] -- Configuring done
+[5.016s] -- Generating done
+[5.022s] -- Build files have been written to: /home/aspen/ros2_ws/src/aspen_description/build/aspen_description
+[5.078s] Invoked command in '/home/aspen/ros2_ws/src/aspen_description/build/aspen_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aspen/ros2_ws/src/aspen_description -DCMAKE_INSTALL_PREFIX=/home/aspen/ros2_ws/src/aspen_description/install/aspen_description
+[5.090s] Invoking command in '/home/aspen/ros2_ws/src/aspen_description/build/aspen_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aspen/ros2_ws/src/aspen_description/build/aspen_description -- -j4 -l4
+[5.231s] Invoked command in '/home/aspen/ros2_ws/src/aspen_description/build/aspen_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aspen/ros2_ws/src/aspen_description/build/aspen_description -- -j4 -l4
+[5.377s] Invoking command in '/home/aspen/ros2_ws/src/aspen_description/build/aspen_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aspen/ros2_ws/src/aspen_description/build/aspen_description
+[5.405s] -- Install configuration: ""
+[5.405s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/src
+[5.406s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/launch
+[5.406s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/launch/display.launch.py
+[5.408s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/rviz
+[5.408s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/rviz/urdf_config.rviz
+[5.410s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/ament_index/resource_index/package_run_dependencies/aspen_description
+[5.412s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/ament_index/resource_index/parent_prefix_path/aspen_description
+[5.414s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/environment/ament_prefix_path.sh
+[5.415s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/environment/ament_prefix_path.dsv
+[5.417s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/environment/path.sh
+[5.418s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/environment/path.dsv
+[5.419s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/local_setup.bash
+[5.421s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/local_setup.sh
+[5.422s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/local_setup.zsh
+[5.423s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/local_setup.dsv
+[5.424s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/package.dsv
+[5.426s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/ament_index/resource_index/packages/aspen_description
+[5.428s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/cmake/aspen_descriptionConfig.cmake
+[5.429s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/cmake/aspen_descriptionConfig-version.cmake
+[5.430s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/package.xml
+[5.438s] Invoked command in '/home/aspen/ros2_ws/src/aspen_description/build/aspen_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/aspen/ros2_ws/src/aspen_description/build/aspen_description

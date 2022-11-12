@@ -1,0 +1,27 @@
+[0.063s] Invoking command in '/home/aspen/ros2_ws/src/aspen_description/build/aspen_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aspen/ros2_ws/src/aspen_description/build/aspen_description -- -j4 -l4
+[0.218s] Invoked command in '/home/aspen/ros2_ws/src/aspen_description/build/aspen_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/aspen/ros2_ws/src/aspen_description/build/aspen_description -- -j4 -l4
+[0.356s] Invoking command in '/home/aspen/ros2_ws/src/aspen_description/build/aspen_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aspen/ros2_ws/src/aspen_description/build/aspen_description
+[0.382s] -- Install configuration: ""
+[0.384s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/src
+[0.385s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/src/description
+[0.386s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/src/description/aspen_description.urdf
+[0.387s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/launch
+[0.388s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/launch/display.launch.py
+[0.389s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/rviz
+[0.390s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/rviz/urdf_config.rviz
+[0.391s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/ament_index/resource_index/package_run_dependencies/aspen_description
+[0.392s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/ament_index/resource_index/parent_prefix_path/aspen_description
+[0.392s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/environment/ament_prefix_path.sh
+[0.393s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/environment/ament_prefix_path.dsv
+[0.395s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/environment/path.sh
+[0.400s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/environment/path.dsv
+[0.405s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/local_setup.bash
+[0.406s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/local_setup.sh
+[0.407s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/local_setup.zsh
+[0.417s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/local_setup.dsv
+[0.418s] -- Installing: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/package.dsv
+[0.418s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/ament_index/resource_index/packages/aspen_description
+[0.419s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/cmake/aspen_descriptionConfig.cmake
+[0.420s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/cmake/aspen_descriptionConfig-version.cmake
+[0.420s] -- Up-to-date: /home/aspen/ros2_ws/src/aspen_description/install/aspen_description/share/aspen_description/package.xml
+[0.421s] Invoked command in '/home/aspen/ros2_ws/src/aspen_description/build/aspen_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/aspen/ros2_ws/src/aspen_description/build/aspen_description
