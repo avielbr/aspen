@@ -1,6 +1,4 @@
-## `aspen` SLAM robot project
-
----
+## DIY SLAM robotics project: aspen
 
 This is an educational personal project involving a DIY SLAM robot running ROS2 and the nav2 stack.
 
